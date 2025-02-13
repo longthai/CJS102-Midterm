@@ -1,14 +1,20 @@
 {
+<<<<<<< HEAD
   
   "homepage": "https://longthai.github.io/CJS102-Midterm",
+=======
+>>>>>>> 9d1a9c86157b71ca45f403ff93f623cbb591641a
   "name": "ci-midterm",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+=======
+>>>>>>> 9d1a9c86157b71ca45f403ff93f623cbb591641a
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
@@ -29,7 +35,10 @@
     "eslint-plugin-react": "^7.37.4",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.18",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 9d1a9c86157b71ca45f403ff93f623cbb591641a
     "globals": "^15.14.0",
     "postcss": "^8.5.2",
     "tailwindcss": "^3.4.17",
